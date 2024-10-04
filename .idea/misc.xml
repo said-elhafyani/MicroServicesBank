@@ -18,6 +18,10 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/../micro-test/billing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../micro-test/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../micro-test/eurika-diskovery/pom.xml" />
+        <option value="$PROJECT_DIR$/../micro-test/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/../micro-test/invontory-service/pom.xml" />
       </set>
     </option>
